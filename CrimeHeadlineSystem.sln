@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeHeadlineSystem", "CrimeHeadlineSystem\CrimeHeadlineSystem.csproj", "{74E10DDA-EEA2-4E32-9C30-62F27C723BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{4A2C7A4A-313E-444D-ABA8-A97E44D59FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E10DDA-EEA2-4E32-9C30-62F27C723BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E10DDA-EEA2-4E32-9C30-62F27C723BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E10DDA-EEA2-4E32-9C30-62F27C723BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E10DDA-EEA2-4E32-9C30-62F27C723BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2C7A4A-313E-444D-ABA8-A97E44D59FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2C7A4A-313E-444D-ABA8-A97E44D59FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2C7A4A-313E-444D-ABA8-A97E44D59FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2C7A4A-313E-444D-ABA8-A97E44D59FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
